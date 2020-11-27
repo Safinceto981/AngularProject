@@ -1,0 +1,10 @@
+mat-card {
+    margin: 10px auto;
+    max-width: 700px;
+    background-color:rgb(232, 223, 238);
+  }
+  mat-form-field {
+    width: 100%;
+    background-color:cornsilk;
+  }
+  
